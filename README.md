@@ -10,9 +10,9 @@ This app allows gym owners to:
 - Send automated messages and offers using Stitch AI
 
 Members can:
-- View their loyalty status
-- Redeem rewards
-- Receive updates via email or SMS
+- Dashboard that shows current loyalty tier and points
+- Rewards section showing rewards avaialbe 
+- Membmer log showing all checkin of member 
 
 ##  Built with Stitch AI
 
