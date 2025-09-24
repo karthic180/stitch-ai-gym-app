@@ -1,2 +1,31 @@
-# stitch-ai-showcase
-Showcasing the capabilities of Sitch AI app UX UI Designer
+#  Gym Loyalty Card App — Powered by Stitch
+
+Welcome to the Gym Loyalty Card App — a smart, AI-powered solution built using [Stitch by Google](https://stitch.withgoogle.com/) to help gyms reward their members with seamless digital loyalty cards.
+
+##  Overview
+
+This app allows gym owners to:
+- Create personalized loyalty cards for members
+- Track visits and reward milestones
+- Send automated messages and offers using Stitch AI
+
+Members can:
+- View their loyalty status
+- Redeem rewards
+- Receive updates via email or SMS
+
+##  Built with Stitch AI
+
+Stitch AI handles:
+- Natural language understanding for member queries
+- Automated workflows for reward tracking
+- Smart messaging and personalization
+
+## Tech Stack
+
+- **AI**: Stitch by Google
+
+
+##  How to Run
+Clone the repo:
+
