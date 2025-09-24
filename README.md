@@ -21,6 +21,11 @@ Stitch AI handles:
 - Automated workflows for reward tracking
 - Smart messaging and personalization
 
+## Screenshots
+Dashboard (https://github.com/karthic180/stitch-ai-gym-app/blob/main/Appdashscreen.png)
+Rewards (https://github.com/karthic180/stitch-ai-gym-app/blob/main/rewardsscreen.png)
+Member history (https://github.com/karthic180/stitch-ai-gym-app/blob/main/memeberlogscreen.png)
+
 ## Tech Stack
 
 - **AI**: Stitch by Google
