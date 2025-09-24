@@ -12,7 +12,13 @@ This app allows gym owners to:
 Members can:
 - Dashboard that shows current loyalty tier and points
 - Rewards section showing rewards avaialbe 
-- Membmer log showing all checkin of member 
+- Membmer log showing all checkin of member
+
+## Code
+https://github.com/karthic180/stitch-ai-gym-app/blob/main/Main_Code_dashboard.html
+https://github.com/karthic180/stitch-ai-gym-app/blob/main/Member_profile.html
+https://github.com/karthic180/stitch-ai-gym-app/blob/main/member_log.html
+https://github.com/karthic180/stitch-ai-gym-app/blob/main/Code_Rewards.html
 
 ##  Built with Stitch AI
 
